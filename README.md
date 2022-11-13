@@ -7,7 +7,7 @@
  * 主要製作低版本插件 最近正在學習高版本的Spigot API  
   
 ### * 最近的專案:  
-  * **FlatYanCore** - 一個給1.8伺服器用的核心插件，有很多基礎功能，目前為不公開狀態 
+  * **FlatYanCore** - 一個給1.8伺服器用的核心插件，有很多基礎功能，目前為不公開狀態  
   ( +還有一些受人委託協助製作的插件 這邊就不說有哪些了 )
   
 ### * 過去的專案:  
@@ -20,7 +20,7 @@
   * Youtube: https://www.youtube.com/channel/UCZ21SejxVcQEZl_dJ3ouqQg  
 
 
-如果對我有任何疑問，也可以來私訊我得Discord喔~
+如果對我有任何疑問，也可以來私訊我的Discord喔~
 
 <!--
 **FlatYan/FlatYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
