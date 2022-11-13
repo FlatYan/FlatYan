@@ -1,6 +1,5 @@
-##你好👋 我是扁彥FlatYan  
-###我是一個小小插件開發者  
-  
+##你好👋 我是扁彥FlatYan
+###我是一個小小插件開發者
 * 最近的專案:  
   * **FlatYanCore** - 一個給1.8伺服器用的核心插件，有很多基礎功能，目前為不公開狀態  
   
@@ -11,6 +10,7 @@
 * 社交媒體:  
   * Discord: FlatYan#9669 (ID: 4649598207687393382)  
   * Youtube: https://www.youtube.com/channel/UCZ21SejxVcQEZl_dJ3ouqQg  
+
 <!--
 **FlatYan/FlatYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
