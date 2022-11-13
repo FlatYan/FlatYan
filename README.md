@@ -18,7 +18,7 @@
   
 ### * 社交媒體:  
   * Discord: FlatYan#9669 (ID: 4649598207687393382)  
-  * Youtube: https://www.youtube.com/channel/UCZ21SejxVcQEZl_dJ3ouqQg  
+  * Youtube: [點我進入](https://www.youtube.com/channel/UCZ21SejxVcQEZl_dJ3ouqQg)  
 
 
 如果對我有任何疑問，也可以來私訊我的Discord喔~
