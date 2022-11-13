@@ -2,7 +2,7 @@
 ## 我是的一個小小Minecraft插件開發者 
   
 關於我:  
- * 住在台灣的一名男國中生  
+ * 住在台灣的一名國中生  
  * 致力於開發更多優質的伺服器給大家遊玩  
  * 主要製作低版本插件 最近正在學習高版本的Spigot API  
   
@@ -16,6 +16,7 @@
 ### * 社交媒體:  
   * Discord: FlatYan#9669 (ID: 4649598207687393382)  
   * Youtube: https://www.youtube.com/channel/UCZ21SejxVcQEZl_dJ3ouqQg  
+
 
 如果對我有任何疑問，也可以來私訊我得Discord喔~
 
